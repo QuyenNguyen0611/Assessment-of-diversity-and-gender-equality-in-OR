@@ -13,9 +13,9 @@ This project analyzes **geographical diversity** and **gender representation** i
 2. How have trends in gender representation among OR scholars changed, and how consistent are these trends across journals?
 
 **Methodology**
-Data Sources: Scopus, Kaggle  
-Techniques: Data preprocessing, gender classification (Gender-Guesser, Machine Learning)  
-Tools: Python, VOSviewer
+1. Data Sources: Scopus, Kaggle  
+2. Techniques: Data preprocessing, gender classification (Gender-Guesser, Machine Learning)  
+3. Tools: Python, VOSviewer
 
 **Key Findings**
 1. Geographical Diversity:  
@@ -33,7 +33,7 @@ Academics, Researchers, Journal Editors, and Policy Makers in OR and STEM.
 This study highlights the importance of addressing imbalances in diversity and gender equality to enrich the OR academic landscape.
 
 
-Assessed report at: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment%20of%20diversity%20and%20gender%20equality%20in%20OR.pdf
+Assessed the report in: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment%20of%20diversity%20and%20gender%20equality%20in%20OR.pdf
 
-Assessed code at: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment_of_diversity_and_gender_equality.ipynb
+Assessed the code in: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment_of_diversity_and_gender_equality.ipynb
 
