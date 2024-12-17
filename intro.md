@@ -31,6 +31,8 @@ Academics, Researchers, Journal Editors, and Policy Makers in OR and STEM.
 
 **Contributions**
 This study highlights the importance of addressing imbalances in diversity and gender equality to enrich the OR academic landscape.
+
+
 Assessed report at: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment%20of%20diversity%20and%20gender%20equality%20in%20OR.pdf
 
 Assessed code at: https://github.com/QuyenNguyen0611/Assessment-of-diversity-and-gender-equality-in-OR/blob/main/Assessment_of_diversity_and_gender_equality.ipynb
